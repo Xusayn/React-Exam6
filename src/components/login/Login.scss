@@ -1,0 +1,29 @@
+.log{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    form{
+        width: 250px;
+        height: 350px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content:center;
+        gap: 30px;
+        input{
+            width: 180px;
+            height: 29px;
+        }
+        button{
+            width: 180px;
+            height: 38px;
+            border: none;
+            background-color: rgb(24, 136, 24);
+            color: white;
+            cursor: pointer;
+            border-radius: 5px;
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "title": "iPhone 9",
+      "description": "An apple mobile which is nothing like apple",
+      "brand": "Apple",
+      "price": 549,
+      "discountPercentage": 12.96,
+      "category": "smartphones"
+    },
+    {
+      "id": "2",
+      "title": "Samsung a13",
+      "description": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with OLED technology A12 Bionic chip with ...",
+      "brand": "Android",
+      "price": 899,
+      "discountPercentage": 17.94,
+      "category": "smartphones"
+    }
+  ]
+}
